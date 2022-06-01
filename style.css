@@ -1,0 +1,384 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+:root{
+    --yashil: #57D9A6;
+    --havorang: #23233B;
+}
+.nav_1{
+    width: 100%;
+    height: 43px;
+    background-color: var(--yashil);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav_1 p{
+    font-size: 18px;
+}
+.navbar{
+    width: 100%;
+    height: 105px;
+    background-color: #1C1C33;
+}
+.scilz{
+    padding-top: 30px;
+    padding-left: 82px;
+}
+.nav_collection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -35px;
+    color: #fff;
+}
+.nav_collection li{
+    list-style: none;
+    margin-right: 40px;
+}
+.korzinka{
+    margin-left: 1280px;
+    margin-top: -37px;
+}
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-color: var(--havorang);
+    position: relative;
+}
+.course{
+    font-size: 16px;
+    color: #fff;
+    padding-top: 144px;
+    padding-left: 82px;
+}
+.chiziq{
+    width: 10%;
+    height: 2px;
+    background-color: var(--yashil);
+    margin-left: 82px;
+    margin-top: 7px;
+}
+.banner h2{
+    width: 60%;
+    font-size: 55px;
+    color: #fff;
+    padding-left: 79px;
+    padding-top: 68px;
+}
+.deep{
+    width: 50%;
+    color: #fff;
+    font-size: 22px;
+    padding-left: 82px;
+    padding-top: 22px;
+}
+.murphy{
+    color: #fff;
+    padding-left: 82px;
+    padding-top: 22px;
+}
+.btn{
+    padding: 16px 24px;
+    text-transform: uppercase;
+    margin-left: 82px;
+    margin-top: 48px;
+    background-color: var(--yashil);
+    border: none;
+    border-radius: 4px;
+}
+.insta{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    margin-left: 730px;
+    margin-top: -450px;
+}
+.yolyol{
+    width: 257px;
+    height: 148px;
+    margin-left: 450px;
+    margin-top: -500px;
+}
+.r16{
+    width: 80px;
+    height: 80px;
+    margin-top: -1000px;
+
+}
+
+.three{
+    width: 100%;
+    height: 500px;
+    background-color: #23233B;
+}
+.three h2{
+    color: #fff;
+    font-size: 44px;
+    text-align: center;
+    padding-top: 142px;
+}
+.three .chiziq{
+    margin-left: 620px;
+    margin-top: 17px;
+}
+.three p{
+    width: 70%;
+    color: #fff;
+    padding-left: 440px;
+    padding-top: 50px;
+}
+.three .btn{
+    margin-left: 600px;
+}
+
+.four{
+    width: 100%;
+    height: 600px;
+    background-color: #23233B;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    width: 30%;
+    height: 420px;
+    background-color: #fff;
+    margin-right: 48px;
+    margin-left: 10px;
+    text-transform: uppercase;
+}
+.card .increase{
+    font-size: 24px;
+    padding-left: 24px;
+    padding-top: 22px;  
+}
+.katie{
+    padding-left: 24px;
+    padding-top: 8px;
+}
+.narx{
+    font-size: 22px;
+    padding-left: 24px;
+    padding-top: 15px;
+}
+.butn{
+    color: var(--yashil);
+    padding-left: 24px;
+    padding-top: 16px;
+}
+.five{
+    width: 100%;
+    height: 664px;
+    background-color: #1C1C33;
+    display: flex;
+}
+.five img{
+    width: 50%;
+    height: 664px;
+}
+.five h2{
+    font-size: 44px;
+    color: #fff;
+    padding-top: 142px;
+    padding-left: 48px;
+    display: block;
+}
+.five .chiziq{
+    width: 150px;
+    margin-left: 48px;
+    margin-top: 16px;
+}
+.five p{
+    width: 85%;
+    color: #fff;
+    font-size: 22px;
+    padding-left: 48px;
+    padding-top: 50px;
+    line-height: 33px;
+}
+.five .btn{
+    margin-left: 48px;
+}
+.seveen{
+    width: 100%;
+    height: 90vh;
+    background-color: #fff;  
+}
+.seveen h1{
+    font-size: 44px;
+    text-align: center;
+    padding-top: 142px;
+}
+.seveen .chiziq{
+    margin-left: 600px;
+    margin-top: 17px;
+}
+.seveen p{
+    width: 75%;
+    font-size: 22px;
+    padding-left: 340px;
+    padding-top: 69px;
+    line-height: 33px;
+}
+.seveen .btn{
+    margin-left: 580px;
+}
+.eight{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.eight .card{
+    height: 270px;
+    background-color: #ebebeb;
+}
+.eight .card h1{
+    font-size: 22px;
+    padding-left: 24px;
+    padding-top: 22px;
+}
+.eight .card p{
+    width: 85%;
+    padding-left: 24px;
+    padding-top: 11px;
+}
+.nine{
+    width: 100%;
+    height: 506px;
+    background-color: var(--yashil);
+}
+.star{
+    border: none;
+    margin-right: 5px;
+    margin-left: 632px;
+    padding-top: 82px;
+}
+.courses{
+    width: 97%;
+    font-size: 28px;
+    padding-left: 190px;
+    text-align: center;
+    padding-top: 45px;
+}
+.name{
+    font-size: 18px;
+    padding-left: 600px;
+    padding-top: 37px;
+}
+.nine img{
+    margin-top: 100px;
+    margin-left: 190px;
+}
+.ten{
+    width: 100%;
+    height: 822px;
+    background-color: #1C1C33;
+    display: flex;
+}
+.ten img{
+    width: 534px;
+    height: 534px;
+    margin-top: 144px;
+    margin-left: 82px;
+}
+.keyingi h1{
+    color: #fff;
+    padding-top: 263px;
+    padding-left: 128px;
+}
+.keyingi .chiziq{
+    width: 150px;
+    margin-left: 128px;
+    margin-top: 17px;
+}
+.keyingi p{
+    width: 80%;
+    color: #fff;
+    padding-left: 128px;
+    padding-top: 50px;
+    line-height: 33px;
+}
+.keyingi .btn{
+    margin-left: 128px;
+}
+ 
+.eleven .four{
+    background-color: #fff;
+}
+.eleven .three{
+    background-color: #fff;
+}
+.three h2{
+    color: black;
+}
+.three p{
+    color: black;
+}
+.eleven .four .card{
+    background-color: #e6e6e6;
+}
+.eleven .four .card .narx{
+    font-size: 17px;
+}
+.footer{
+    width: 100%;
+    height: 900px;
+    position: relative;
+}
+.position{
+    width: 90%;
+    height: 347px;
+    background-color: var(--yashil);
+    margin-left: 82px;
+    position: absolute;
+    top: -174px;
+}
+.position h1{
+    color: #1C1C33;
+    font-size: 40px;
+    padding-left: 226px;
+    padding-top: 78px;
+}
+.position input{
+    width: 25%;
+    height: 50px;
+    margin-top: 62px;
+    margin-left: 380px;
+    border-radius: 4px;
+    font-weight: 800;
+    padding-left: 20px;
+    border: 1px solid #1C1C33;
+    background-color: transparent;
+}
+.bt1{
+    width: 116px;
+    height: 50px;
+    border: none;
+    border-radius: 4px;
+    margin-left: 16px;
+    background-color: #1C1C33;
+    color: var(--yashil);
+}
+
+.follow{
+    width: 100%;
+    height: 800px;
+    background-color: #1C1C33;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 200px;
+}
+.fo_container{
+    color: #fff;
+    padding-top: 400px;
+    padding-left: 82px;
+    list-style: none;
+    text-transform: uppercase;
+}
+.fo_container li{
+    margin-bottom: 16px;
+}

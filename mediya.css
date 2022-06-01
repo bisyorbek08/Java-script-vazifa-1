@@ -1,0 +1,210 @@
+@media screen and (max-width: 600px) {
+    .nav_1{
+        width: 100%;
+    }
+    .nav_1 p{
+        font-size: 15px;
+        text-align: center;
+        width: 60%;
+        line-height: 20px;
+    }
+    .navbar{
+        width: 100%;
+    }
+    .scilz{
+        width: 40%;
+    }
+    .nav_collection li{
+        display: none;
+    }
+    .korzinka{
+        display: block;
+        margin-left: 70%;
+        padding-top: 35px;
+    }
+    .banner{
+        width: 100%;
+        height: 100vh;
+    }
+    .course{
+        font-size: 15px;
+        padding-top: 50px;
+        padding-left: 20px;
+
+    }
+    .chiziq{
+        width: 120px;
+        height: 1px;
+        margin-left: 20px;
+    }
+    .banner h2{
+        width: 50%;
+        font-size: 20px;
+        padding-left: 20px;
+        line-height: 25px;
+    }
+    .deep{
+        font-size: 15px;
+        padding-left: 20px;
+    }
+    .murphy{
+        padding-left: 20px;
+    }
+    .btn{
+        font-size: 12px;
+        padding: 10px 20px;
+        margin-left: 20px;
+    }
+    .insta{
+        width: 200px;
+        height: 200px;
+        margin-left: 300px;
+        margin-top: -220px;
+    }
+    .yolyol{
+        width: 100px;
+        height: 100px;
+        margin-left: 100px;
+    }
+    .three h2{
+        font-size: 35px;
+    }
+    .three .chiziq{
+        margin-left: 230px;
+    }
+    .three p{
+        width: 80%;
+        padding-left: 150px;
+    }
+    .three .btn{
+        margin-left: 200px;
+    }
+    .four{
+        width: 100%;
+        height: 280vh;
+        display: block;
+    }
+    .card{
+        width: 94%;
+        margin-bottom: 50px;
+    }
+    .card img{
+        width: 100%;
+    }
+    .card .increase{
+        font-size: 17px;
+        padding-left: 24px;
+        padding-top: 22px;  
+    }
+    .katie{
+        font-size: 14px;
+        padding-left: 24px;
+        padding-top: 8px;
+    }
+    .narx{
+        font-size: 16px;
+        padding-left: 24px;
+        padding-top: 15px;
+    }
+    .butn{
+        font-size: 14px;
+    }
+    .five{
+        width: 100%;
+        height: 260vh;
+        display: block;
+    }
+    .five h2{
+        font-size: 33px;
+    }
+    .five p{
+        font-size: 17px;
+    }
+    .five img{
+        width: 100%;
+        overflow: hidden;   
+    }
+    .seveen h1{
+        font-size: 32px;
+        padding-left: 50px;
+    }
+    .seveen .chiziq{
+        margin-left: 220px;
+    }
+    .seveen p{
+        width: 90%;
+        font-size: 17px;
+        padding-left: 70px;
+    }
+    .seveen .btn{
+        margin-left: 180px;
+    }
+    .eight{
+        width: 100%;
+        height: 600px;
+        display: block;
+        margin-top: 100px;
+    }
+    .nine{
+        width: 100%;
+        margin-top: 400px;
+    }
+    .nine .star{
+        margin-left: 180px;
+    }
+    .courses{
+        font-size: 20px;
+        padding-left: 40px;
+    }
+    .name{
+        padding-left: 140px;
+    }
+    .nine img{
+        width: 100%;
+        margin-left: 10px;
+    }
+    .ten{
+        width: 100%;
+        height: 230vh;
+        display: block;
+    }
+    .ten img{
+        width: 400px;
+        height: 400px;
+        margin-left: 30px;
+        margin-bottom: 20px;
+    }
+    .footer{
+        width: 100%;
+        display: block;
+    }
+    .position{
+        width: 94%;
+        margin-left: 20px;
+    }
+    .position h1{
+        font-size: 30px;
+        padding-left: 30px;
+    }
+    .position input{
+        width: 30%;
+        height: 30px;
+        margin-left: 20px;
+        font-size: 10px;
+    }
+    .bt1{
+        width: 86px;
+        height: 30px;
+        background-color: #1C1C33;
+        color: var(--yashil);
+        border: none;
+    }
+    .follow{
+        width: 100%;        
+    }
+    .follow{
+        display: block;
+        width: 100%;
+        height: 400vh;
+    }
+}
